@@ -1,8 +1,8 @@
 # Biodiversity in National Parks
 
-This is my second [Codecademy](https://www.codecademy.com/paths/data-analyst/tracks/dsf-portfolio-project/modules/dscp-biodiversity-in-national-parks/kanban_projects/biodiversity-in-national-parks-portfolio-project) portfolio project.
+This is my second [Codecademy](https://www.codecademy.com/pages/data-science-career-specializations) portfolio project.
 
-It was an open-ended exploratory data analysis project where we would discover any patterns or themes to the types of species that become endangered. 
+It was an open-ended exploratory data analysis project where we would discover any patterns to the types of species that become endangered. 
 
 ----
 
@@ -38,11 +38,13 @@ With columns;
 
 ## Four National Parks in the United States of America were represented.
 
-<img src="National Park Map.png"/>
+<img src="Images/National Park Map.png"/>
 
 ----
 
-The focus of the project was biodiversity. 
-I decided to centre my analysis on birds of prey both protected and non-protected.
+## The focus of the project was biodiversity. 
+### I decided to centre my analysis on birds of prey both protected and non-protected.
+
+----
 
 
