@@ -8,7 +8,7 @@ colours = {'Buzzard': '#8dd3c7', 'Condor': '#ffffb3', 'Eagle': '#bebada', 'Falco
             'Hawk': '#fdb462', 'Kite': '#b3de69', 'Osprey': '#fccde5', 'Owl': '#bc80bd', 'Vulture': '#d9d9d9'}
 
 # Create a figure and a 1x10 grid of subplots
-fig, axs = plt.subplots(1, 10, figsize=(10, 1))
+fig, axs = plt.subplots(1, 10, figsize=(20, 2))
 
 # Set the background color of each subplot
 for i, color in enumerate(colours):
@@ -17,7 +17,7 @@ for i, color in enumerate(colours):
 
 # Set the labels for each subplot
 for i, color in enumerate(colours):
-    axs[i].text(0.5, 0.5, color, ha='center', va='center')
+    axs[i].text(0.5, 0.5, color, ha='center', va='center', fontsize=20)
 
 # Remove the axis labels and tick marks
 for ax in axs.ravel():
