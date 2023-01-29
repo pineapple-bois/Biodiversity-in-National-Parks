@@ -47,4 +47,6 @@ With columns;
 
 ----
 
+### As apex predators, predatory birds are flagstone, umbrella or keystone species causing top down trophic cascades where food web stability depends on competition and predation.
+
 
