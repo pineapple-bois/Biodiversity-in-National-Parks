@@ -43,10 +43,14 @@ With columns;
 ----
 
 ## The focus of the project was biodiversity. 
-### I decided to centre my analysis on birds of prey both protected and non-protected.
+#### I decided to centre my analysis on birds of prey both protected and non-protected.
 
 ----
 
-### As apex predators, predatory birds are flagstone, umbrella or keystone species causing top down trophic cascades where food web stability depends on competition and predation.
+Birds of prey, also known as raptors, are considered to be important indicator species of biodiversity due to their unique ecological roles and sensitive responses to environmental changes. These birds play a crucial role in maintaining the balance of ecosystems by controlling populations of small mammals, reptiles and other birds. They are therefore considered keystone species.
+
+Raptors are top predators and occupy a high trophic level, making them sensitive to changes in their prey populations and the food web. As such, changes in raptor populations can indicate shifts in ecosystem health and the presence of toxic substances, such as pesticides and heavy metals. For example, declines in populations of birds of prey have been linked to exposure to pesticides and other pollutants, leading to reproductive failures and decreased survival rates.
+
+In addition, raptors have large ranges and occupy a wide variety of habitats, making them effective indicators of the overall health of ecosystems. As species with a long lifespan and low reproductive rate, they are also sensitive to long-term environmental changes, such as habitat loss and degradation. The presence of bird of prey species is often used as an indicator of habitat quality, as they require large territories and diverse habitats to survive.
 
 
