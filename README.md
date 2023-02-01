@@ -53,4 +53,24 @@ Raptors are top predators and occupy a high trophic level, making them sensitive
 
 Raptors require large territories and diverse habitats to survive making them effective indicators of the overall health of ecosystems. As species with a long lifespan and low reproductive rate, they are very sensitive to long-term environmental changes, such as habitat loss and degradation. 
 
+----
 
+#### Technologies used:
+```
+Git Zsh
+Jupyter Notebooks
+```
+#### Libraries used:
+```
+pandas
+matplotlib.pyplot
+matplotlib.patches
+seaborn
+numpy
+```
+#### Techniques used:
+```
+DataFrame manipulation
+Regex
+Visualisations
+```
