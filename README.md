@@ -23,7 +23,7 @@ This dataset was an abridged version of a similar set on [Kaggle](https://www.ka
 
 ----
 
-#### `observations.csv`; contains information from recorded sightings of different species throughout the national parks over a seven-day period.
+#### `observations.csv`; contains information from recorded sightings of different species over a seven-day period.
 
 With columns; 
 
@@ -32,7 +32,7 @@ With columns;
 - `observations` - the number of times each species was observed at park in the past 7 days
 
 This dataset was entirely fictional. 
-However, merging the two gave the opportunity to explore trends within `species_info.csv`
+Merging the two gave the opportunity to explore trends within `species_info.csv`
 
 ----
 
@@ -47,10 +47,10 @@ However, merging the two gave the opportunity to explore trends within `species_
 
 ----
 
-Birds of prey, also known as raptors, are considered important 'indicator species' of biodiversity. Their unique ecological role in maintaining the balance of ecosystems by controlling populations of small mammals, reptiles and other birds. 
+Birds of prey, also known as raptors, are considered important 'indicator species' of biodiversity. They perform an important role in maintaining the balance of ecosystems by controlling populations of small mammals, reptiles and other birds. 
 
-Raptors are top predators and occupy a high trophic level, making them sensitive to changes in their prey populations and the food web. As such, changes in raptor populations can indicate shifts in ecosystem health and the presence of toxic substances, such as pesticides and heavy metals. 
+Raptors are top predators and occupy a high trophic level, making them sensitive to changes in the food web and in their prey populations. As such, changes in raptor populations can indicate shifts in ecosystem health and the presence of toxic substances, such as pesticides and heavy metals. 
 
-Raptors have large ranges and occupy a wide variety of habitats. They require large territories and diverse habitats to survive making them effective indicators of the overall health of ecosystems. As species with a long lifespan and low reproductive rate, they are very sensitive to long-term environmental changes, such as habitat loss and degradation. 
+Raptors require large territories and diverse habitats to survive making them effective indicators of the overall health of ecosystems. As species with a long lifespan and low reproductive rate, they are very sensitive to long-term environmental changes, such as habitat loss and degradation. 
 
 
