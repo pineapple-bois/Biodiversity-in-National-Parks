@@ -71,6 +71,17 @@ numpy
 #### Techniques used:
 ```
 DataFrame manipulation
-Regex
+Data wrangling using regex
 Visualisations
 ```
+#### Images:
+
+- Images were sourced royalty free from [Pixabay](https://pixabay.com)
+- Map of the USA from [Google Earth](https://earth.google.com/web/@39.00737915,-95.31864374,-81.61621475a,5326276.02988026d,35y,0h,0t,0r)
+
+#### References:
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Bird_of_prey)
+- [US National Parks Service](https://www.nps.gov/index.htm)
+
+----
